@@ -1,6 +1,8 @@
 CWAC Task: A Bit More Background Task Goodness
 ==============================================
 
+**THIS PROJECT IS DISCONTINUED &mdash; USE AT YOUR OWN RISK**
+
 The CWAC Task module presently offers `AsyncTaskEx` class,
 which is Android's `AsyncTask` with a larger thread pool
 and support for an unbounded work queue for backlogged
@@ -39,14 +41,10 @@ file.
 
 Questions
 ---------
-If you have questions regarding the use of this code, please
-join and ask them on the [cw-android Google Group][gg]. Be sure to
-indicate which CWAC module you have questions about.
+**THIS PROJECT IS UNSUPPORTED**
 
 Who Made This?
 --------------
 <a href="http://commonsware.com">![CommonsWare](http://commonsware.com/images/logo.png)</a>
-
-<script src="http://stackoverflow.com/users/flair/115145.js?theme=default" type="text/javascript"></script>
 
 [gg]: http://groups.google.com/group/cw-android
